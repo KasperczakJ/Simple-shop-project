@@ -1,0 +1,35 @@
+﻿body {
+    background-color: lightgray;
+}
+
+h1 {
+    text-align: center;
+}
+
+.button_bar {
+    margin-top: 5px;
+    text-decoration: none;
+    display: flex;
+    padding: 5px;
+    justify-content: center;
+    align-items: center;
+}
+
+.button {
+    background-color: yellow;
+    padding: 10px 20px;
+    border: 1px;
+    margin-right: 5px;
+    margin-left: 5px;
+    border: 1px solid black;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 10px;
+}
